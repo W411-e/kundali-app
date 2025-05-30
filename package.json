@@ -1,8 +1,9 @@
 {
   "name": "kundali-app",
   "version": "1.0.0",
+  "private": true,
   "scripts": {
-    "build": "cd Frontend && npm install && npm run build",
+    "build": "cd Frontend && npm run build",
     "dev": "cd Frontend && npm run dev",
     "start": "cd Frontend && npm run start"
   }
