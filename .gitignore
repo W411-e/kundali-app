@@ -238,7 +238,7 @@ ehthumbs.db
 Thumbs.db
 
 # Package managers
-package-lock.json
+# package-lock.json  # Commented out - keep this for reliable builds
 yarn.lock
 .pnpm-lock.yaml
 
